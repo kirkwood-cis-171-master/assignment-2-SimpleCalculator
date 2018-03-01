@@ -13,6 +13,7 @@
 | 0 - 80 points | 80 - 95 points | 95 - 100 points |
 
 Total Score: 92
+
 Implement a simple calculator program that takes 3 arguments:
 
 ```
